@@ -34,7 +34,7 @@
                 </div>
                 <nav id="nav-menu-container">
                     <ul class="nav-menu">
-                        <li class="menu-active"><a href="index.php">Home</a></li>
+                        <li class="menu-active"><a href="../index.html">Home</a></li>
                         <li><a href="backend/doc/index.php">Doctor's Login</a></li>
                         <li><a href="backend/admin/index.php">Administrator Login</a></li>
                     </ul>
